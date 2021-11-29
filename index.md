@@ -1,4 +1,4 @@
-#PykaDex Docs.
+# PykaDex Docs.
 ## Welcome to PykaDex Docs
 
 Gotta classify them all.
