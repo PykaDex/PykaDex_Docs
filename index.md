@@ -7,7 +7,7 @@ Gotta classify them all.
 For time being as docs are being worked on.  This is a quick run down of the pykadex repositories and their uses.
 
 ## [PykaDex_Trainer](https://github.com/PykaDex/PykaDex_Trainer)
-- main repo for creating and training nueral nets models to classify pokemon. using the data generated/augmented by PykaDex_Data. Plan to train using azure are being discussed
+- repo for creating and training nueral nets models to classify pokemon. using the data generated/augmented by PykaDex_Data. Plan to train using azure are being discussed
 
 ## [PykaDex_Data](https://github.com/PykaDex/PykaDex_Data/)
 - repo for data augmentation and formating ready to feed into Pykadex_Trainer
